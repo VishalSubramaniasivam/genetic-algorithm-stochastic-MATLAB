@@ -47,4 +47,4 @@ Mutate.m<br /><br />
 The Mutate function takes as its input (i) a chromosome and (ii) a mutation probability, and returns a mutated chromosome.
 
 ## Contact
-Created by Vishal Subramaniasivam - feel free to contact me (vishal.subramaniasivam.95@gmail.com).
+Created by Vishal Subramaniasivam - feel free to contact me (vishal.subramaniasivam.95@gmail.com). 
